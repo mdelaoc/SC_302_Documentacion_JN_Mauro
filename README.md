@@ -1,1 +1,6 @@
-# SC_302_Documentacion_JN_Mauro
+# SC\_302\_Documentacion\_JN\_Mauro
+
+Esta es mi primera práctica con GitHub
+
+
+
